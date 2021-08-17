@@ -48,7 +48,7 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   List<Map> scoreList = [
     {
-      'flag': 'f1.png',
+      'flag': 'f1.ico',
       'country': "美国",
       'gold_medal': 39,
       'silver_medal': 41,
